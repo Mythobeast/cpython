@@ -9,6 +9,8 @@ Quick Start Guide
 2.  Run "build.bat" to build Python in 32-bit Release configuration.
 3.  (Optional, but recommended) Run the test suite with "rt.bat -q".
 
+"\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h  \[\033[33m\]\w\[\033[36m\]`git branch --show-current`\n$ "
+
 
 Building Python using Microsoft Visual C++
 ------------------------------------------
